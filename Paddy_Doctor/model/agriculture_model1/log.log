@@ -1,0 +1,71 @@
+20190822-14:37:56 Train Epoch: 1	Loss: 4.2368	TrainAcc: Prec@1 85.433%	Prec@2 0.000%	Prec@3 0.000%
+20190822-14:38:35 Train Epoch: 1	TestAcc: Prec@1 95.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-14:38:35 Saving checkpoint: 1
+20190822-14:46:18 Train Epoch: 2	Loss: 3.2746	TrainAcc: Prec@1 95.833%	Prec@2 0.000%	Prec@3 0.000%
+20190822-14:46:47 Train Epoch: 2	TestAcc: Prec@1 97.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-14:46:47 Saving checkpoint: 2
+20190822-14:53:55 Train Epoch: 3	Loss: 2.7495	TrainAcc: Prec@1 96.900%	Prec@2 0.000%	Prec@3 0.000%
+20190822-14:54:23 Train Epoch: 3	TestAcc: Prec@1 96.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:01:22 Train Epoch: 4	Loss: 2.5257	TrainAcc: Prec@1 98.133%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:01:51 Train Epoch: 4	TestAcc: Prec@1 95.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:09:00 Train Epoch: 5	Loss: 2.4258	TrainAcc: Prec@1 98.067%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:09:33 Train Epoch: 5	TestAcc: Prec@1 98.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:09:33 Saving checkpoint: 5
+20190822-15:16:40 Train Epoch: 6	Loss: 2.3543	TrainAcc: Prec@1 98.133%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:17:08 Train Epoch: 6	TestAcc: Prec@1 98.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:17:08 Saving checkpoint: 6
+20190822-15:24:09 Train Epoch: 7	Loss: 2.2863	TrainAcc: Prec@1 99.267%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:24:37 Train Epoch: 7	TestAcc: Prec@1 98.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:24:37 Saving checkpoint: 7
+20190822-15:31:48 Train Epoch: 8	Loss: 2.2568	TrainAcc: Prec@1 98.900%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:32:16 Train Epoch: 8	TestAcc: Prec@1 97.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:39:26 Train Epoch: 9	Loss: 2.2147	TrainAcc: Prec@1 99.100%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:39:55 Train Epoch: 9	TestAcc: Prec@1 98.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:47:05 Train Epoch: 10	Loss: 2.1732	TrainAcc: Prec@1 99.567%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:47:33 Train Epoch: 10	TestAcc: Prec@1 99.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:47:33 Saving checkpoint: 10
+20190822-15:54:41 Train Epoch: 11	Loss: 2.1486	TrainAcc: Prec@1 99.433%	Prec@2 0.000%	Prec@3 0.000%
+20190822-15:55:09 Train Epoch: 11	TestAcc: Prec@1 99.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-15:55:09 Saving checkpoint: 11
+20190822-16:02:15 Train Epoch: 12	Loss: 2.1145	TrainAcc: Prec@1 99.600%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:02:44 Train Epoch: 12	TestAcc: Prec@1 99.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-16:09:45 Train Epoch: 13	Loss: 2.1039	TrainAcc: Prec@1 99.333%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:10:14 Train Epoch: 13	TestAcc: Prec@1 100.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-16:10:14 Saving checkpoint: 13
+20190822-16:17:31 Train Epoch: 14	Loss: 2.0835	TrainAcc: Prec@1 99.433%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:18:04 Train Epoch: 14	TestAcc: Prec@1 98.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-16:25:03 Train Epoch: 15	Loss: 2.0657	TrainAcc: Prec@1 99.500%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:25:33 Train Epoch: 15	TestAcc: Prec@1 98.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-16:32:32 Train Epoch: 16	Loss: 2.0459	TrainAcc: Prec@1 99.767%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:33:00 Train Epoch: 16	TestAcc: Prec@1 100.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-16:33:00 Saving checkpoint: 16
+20190822-16:39:31 Train Epoch: 17	Loss: 2.0329	TrainAcc: Prec@1 99.733%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:39:58 Train Epoch: 17	TestAcc: Prec@1 98.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-16:46:27 Train Epoch: 18	Loss: 2.0219	TrainAcc: Prec@1 99.700%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:46:53 Train Epoch: 18	TestAcc: Prec@1 99.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-16:53:21 Train Epoch: 19	Loss: 2.0090	TrainAcc: Prec@1 99.767%	Prec@2 0.000%	Prec@3 0.000%
+20190822-16:53:50 Train Epoch: 19	TestAcc: Prec@1 98.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:00:12 Train Epoch: 20	Loss: 1.9994	TrainAcc: Prec@1 99.700%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:00:41 Train Epoch: 20	TestAcc: Prec@1 99.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:07:20 Train Epoch: 21	Loss: 1.9846	TrainAcc: Prec@1 99.867%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:07:49 Train Epoch: 21	TestAcc: Prec@1 99.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:14:34 Train Epoch: 22	Loss: 1.9810	TrainAcc: Prec@1 99.967%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:15:02 Train Epoch: 22	TestAcc: Prec@1 99.333%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:21:50 Train Epoch: 23	Loss: 1.9771	TrainAcc: Prec@1 100.000%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:22:18 Train Epoch: 23	TestAcc: Prec@1 100.000%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:22:18 Saving checkpoint: 23
+20190822-17:29:10 Train Epoch: 24	Loss: 1.9781	TrainAcc: Prec@1 99.900%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:29:39 Train Epoch: 24	TestAcc: Prec@1 99.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:36:26 Train Epoch: 25	Loss: 1.9763	TrainAcc: Prec@1 99.900%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:36:55 Train Epoch: 25	TestAcc: Prec@1 99.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:43:44 Train Epoch: 26	Loss: 1.9745	TrainAcc: Prec@1 99.867%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:44:13 Train Epoch: 26	TestAcc: Prec@1 99.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:51:10 Train Epoch: 27	Loss: 1.9747	TrainAcc: Prec@1 99.900%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:51:38 Train Epoch: 27	TestAcc: Prec@1 99.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-17:58:35 Train Epoch: 28	Loss: 1.9724	TrainAcc: Prec@1 99.933%	Prec@2 0.000%	Prec@3 0.000%
+20190822-17:59:04 Train Epoch: 28	TestAcc: Prec@1 99.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-18:05:57 Train Epoch: 29	Loss: 1.9710	TrainAcc: Prec@1 99.933%	Prec@2 0.000%	Prec@3 0.000%
+20190822-18:06:26 Train Epoch: 29	TestAcc: Prec@1 99.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-18:13:15 Train Epoch: 30	Loss: 1.9686	TrainAcc: Prec@1 99.933%	Prec@2 0.000%	Prec@3 0.000%
+20190822-18:13:43 Train Epoch: 30	TestAcc: Prec@1 99.667%	Prec@2 0.000%	Prec@2 0.000%
+20190822-18:13:43 finish
